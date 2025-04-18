@@ -1,7 +1,7 @@
 {
   "name": "nijah_npm-package-",
   "version": "1.0.1",
-  "type":"module",
+  "type": "module",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -9,5 +9,8 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "nijah_npm-package-": "^1.0.1"
+  }
 }
